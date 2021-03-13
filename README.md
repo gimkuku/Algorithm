@@ -7,4 +7,4 @@
 ## KaKao Blind Test
 
 > ### 2018
-> cache friends4block
+> cache friends4block newsclustering
