@@ -4,7 +4,7 @@
 
 > 11399 1541 13305
 
-## KaKao Blind Test
+## KaKao Blind Recruitment
 
 > ### 2018
 > cache friends4block newsclustering compression
