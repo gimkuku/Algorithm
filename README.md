@@ -7,4 +7,4 @@
 ## KaKao Blind Test
 
 > ### 2018
-> cache friends4block newsclustering
+> cache friends4block newsclustering compression
