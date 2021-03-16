@@ -7,4 +7,4 @@
 ## KaKao Blind Recruitment
 
 > ### 2018
-> cache friends4block newsclustering compression
+> 캐시 프렌즈4블록 뉴스클러스터링 압축 N진수게임 
